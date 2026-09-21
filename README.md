@@ -69,7 +69,9 @@ Malang recorded the highest total sales among the analyzed branches.
 
 ## 📊 Dashboard Preview
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+<img width="1491" height="845" alt="Screenshot 2026-09-21 170447" src="https://github.com/user-attachments/assets/d6225407-c660-48ce-b6b8-ef71f8cc867e" /> 
+<img width="1492" height="306" alt="Screenshot 2026-09-21 170459" src="https://github.com/user-attachments/assets/e9cbccda-f957-48ca-b935-c313b82fc2a0" /> 
+<img width="1488" height="388" alt="Screenshot 2026-09-21 170511" src="https://github.com/user-attachments/assets/4e43fc16-227e-4adb-9386-1dbdcacf66da" />
 
 ## 🎓 Training
 
