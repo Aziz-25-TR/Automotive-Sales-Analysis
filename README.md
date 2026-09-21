@@ -27,9 +27,11 @@ The main objectives of this project are to:
 ## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
+- Microsoft Excel
+- Big Query SQL
+- Python-Pandas
 - Power Query
 - DAX
-- Microsoft Excel
 - Data Analytics
 - Data Visualization
 - Business Intelligence
